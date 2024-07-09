@@ -16,4 +16,6 @@ func main() {
 	// Using Sprintf to format a string and store it in a variable
 	formattedString := fmt.Sprintf("My name is %s and I am %d years old.", name, age)
 	fmt.Println(formattedString)
+
+	fmt.Println("Hello Devil")
 }
